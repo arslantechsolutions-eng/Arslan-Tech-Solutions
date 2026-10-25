@@ -1,0 +1,6 @@
+{
+  "name": "ARSLAN TECH SOLUTIONS ISP - Billing & Complaints Management",
+  "description": "Professional offline Windows ISP Billing, Customer Ledger, Complaints Management, and Technician Dispatch System v4.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
